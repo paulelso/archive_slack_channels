@@ -1,5 +1,5 @@
 # archive_slack_channels
-Script to archive Slack channels
+Scripts to archive Slack channels
 
 These scripts read Slack channel IDs from a CSV file to then archive the respective channels using the 
 [admin.conversations.archive](https://api.slack.com/methods/admin.conversations.archive) Slack API.
